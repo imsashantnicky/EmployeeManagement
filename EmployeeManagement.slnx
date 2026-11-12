@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="EmployeeManagement.Api/EmployeeManagement.Api.csproj" />
+  <Project Path="EmployeeManagement.Test.NUnit/EmployeeManagement.Test.NUnit.csproj" />
+  <Project Path="EmployeeManagement.Tests.xUnit/EmployeeManagement.Tests.xUnit.csproj" />
+  <Project Path="EmployeeManagement/EmployeeManagement.csproj" />
+  <Project Path="ExternalApiClient.Tests.NUnit/ExternalApiClient.Tests.NUnit.csproj" />
+  <Project Path="ExternalApiClient.Tests.xUnit/ExternalApiClient.Tests.xUnit.csproj" />
+  <Project Path="ExternalApiClient/ExternalApiClient.csproj" />
+</Solution>
