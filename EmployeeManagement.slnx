@@ -9,6 +9,11 @@
   <Project Path="EmployeeManagement.Test.NUnit/EmployeeManagement.Test.NUnit.csproj" />
   <Project Path="EmployeeManagement.Tests.xUnit/EmployeeManagement.Tests.xUnit.csproj" />
   <Project Path="EmployeeManagement/EmployeeManagement.csproj" />
+  <Project Path="EmployeeOnboarding.Console/EmployeeOnboarding.Console.csproj" Id="a9cfc092-8379-4dd7-b894-c18b929dbb23" />
+  <Project Path="EmployeeOnboarding.Core/EmployeeOnboarding.Core.csproj" Id="5a54fee5-2577-4a7c-a261-17cef2049df7" />
+  <Project Path="EmployeeOnboarding.Tests.NUnit/EmployeeOnboarding.Tests.NUnit.csproj" Id="0fce3b80-21fd-464e-bae0-db3c2af9fbda" />
+  <Project Path="EmployeeOnboarding.Tests.xUnit/EmployeeOnboarding.Tests.xUnit.csproj" Id="0c7c9b72-0f84-49b6-bbbd-9b012fa2eede" />
+  <Project Path="EmployeeOnboarding/EmployeeOnboarding.csproj" Id="c8f72596-8a86-47b3-bb49-875bb9a36ec5" />
   <Project Path="ExternalApiClient.Tests.NUnit/ExternalApiClient.Tests.NUnit.csproj" />
   <Project Path="ExternalApiClient.Tests.xUnit/ExternalApiClient.Tests.xUnit.csproj" />
   <Project Path="ExternalApiClient/ExternalApiClient.csproj" />
