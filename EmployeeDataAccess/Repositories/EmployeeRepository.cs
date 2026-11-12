@@ -1,5 +1,7 @@
-﻿using EmployeeDataAccess.Data;
+﻿using System.Linq;
+using EmployeeDataAccess.Data;
 using EmployeeDataAccess.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace EmployeeDataAccess.Repositories;
 

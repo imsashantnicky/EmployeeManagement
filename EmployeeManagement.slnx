@@ -1,4 +1,7 @@
 <Solution>
+  <Project Path="BonusEngine.Tests.NUnit/BonusEngine.Tests.NUnit.csproj" Id="ea5dcaae-9b8e-46f7-8cbb-a638726af308" />
+  <Project Path="BonusEngine.Tests.xUnit/BonusEngine.Tests.xUnit.csproj" Id="0adb26d1-5e9c-495c-b233-948404ae2bfa" />
+  <Project Path="BonusEngine/BonusEngine.csproj" Id="e2982fb4-7626-40be-8a11-320575bda17e" />
   <Project Path="EmployeeDataAccess.Tests.NUnit/EmployeeDataAccess.Tests.NUnit.csproj" Id="feb3d7df-0bff-4c76-86d0-ff060b8e58d3" />
   <Project Path="EmployeeDataAccess.Tests.xUnit/EmployeeDataAccess.Tests.xUnit.csproj" Id="800981cf-b3dc-4c4d-9c3c-efe6d9ca38dc" />
   <Project Path="EmployeeDataAccess/EmployeeDataAccess.csproj" Id="e215133b-07bb-45f9-92ac-59a144835fa4" />
