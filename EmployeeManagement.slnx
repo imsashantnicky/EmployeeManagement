@@ -1,4 +1,7 @@
 <Solution>
+  <Project Path="EmployeeDataAccess.Tests.NUnit/EmployeeDataAccess.Tests.NUnit.csproj" Id="feb3d7df-0bff-4c76-86d0-ff060b8e58d3" />
+  <Project Path="EmployeeDataAccess.Tests.xUnit/EmployeeDataAccess.Tests.xUnit.csproj" Id="800981cf-b3dc-4c4d-9c3c-efe6d9ca38dc" />
+  <Project Path="EmployeeDataAccess/EmployeeDataAccess.csproj" Id="e215133b-07bb-45f9-92ac-59a144835fa4" />
   <Project Path="EmployeeManagement.Api/EmployeeManagement.Api.csproj" />
   <Project Path="EmployeeManagement.Test.NUnit/EmployeeManagement.Test.NUnit.csproj" />
   <Project Path="EmployeeManagement.Tests.xUnit/EmployeeManagement.Tests.xUnit.csproj" />
