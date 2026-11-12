@@ -17,4 +17,7 @@
   <Project Path="ExternalApiClient.Tests.NUnit/ExternalApiClient.Tests.NUnit.csproj" />
   <Project Path="ExternalApiClient.Tests.xUnit/ExternalApiClient.Tests.xUnit.csproj" />
   <Project Path="ExternalApiClient/ExternalApiClient.csproj" />
+  <Project Path="OrderProcessing.Core/OrderProcessing.Core.csproj" Id="b09729b7-a665-4958-a400-84c1ae6cb0f2" />
+  <Project Path="OrderProcessing.Tests.NUnit/OrderProcessing.Tests.NUnit.csproj" Id="fda712a0-c9b0-4f77-ba56-3255f71c8fb7" />
+  <Project Path="OrderProcessing.Tests.xUnit/OrderProcessing.Tests.xUnit.csproj" Id="cbd888c2-4cbf-4848-8abc-96b199c3d3a1" />
 </Solution>
